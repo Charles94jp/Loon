@@ -1,0 +1,8 @@
+#!name= 大陆网址
+#!desc= 为大陆网址选择一个策略
+#!author=
+
+[rule]
+# 2026-01-29,约129163条
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMax/ChinaMax_Domain.list,PROXY
