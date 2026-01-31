@@ -1,8 +1,10 @@
-#!name= 懒人听书vip
-#!desc= 解锁会员内容
-#!author= Charles
-#!homepage= https://github.com/Charles94jp/Loon/tree/master/Plugins
-#!icon= https://raw.githubusercontent.com/Charles94jp/Loon/master/Icon/lrts.png
+#!name=懒人听书vip
+#!desc=🟥解锁会员内容，暂不可用
+#!category=Charles自用
+#!author=各位大佬
+#!homepage=https://github.com/Charles94jp/Loon/tree/master/Plugins
+#!icon=https://raw.githubusercontent.com/Charles94jp/Loon/master/Icon/lrts.png
+#!date=2026-01-31 13:08:00
 
 [Script]
 # > 懒人听书vip

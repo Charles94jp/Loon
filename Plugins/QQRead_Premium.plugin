@@ -1,8 +1,10 @@
-#!name= QQ阅读 Premium
-#!desc= 解锁会员读书
-#!author= Charles
-#!homepage= https://github.com/Charles94jp/Loon/tree/master/Plugins
-#!icon= https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png
+#!name=QQ阅读 Premium
+#!desc=🟥解锁会员读书，暂不可用
+#!category=Charles自用
+#!author=各位大佬
+#!homepage=https://github.com/Charles94jp/Loon/tree/master/Plugins
+#!icon=https://raw.githubusercontent.com/Orz-3/mini/master/Color/QQRead.png
+#!date=2026-01-31 13:08:00
 
 [Script]
 http-response ^https?:\/\/(detailadr|commontgw).reader.qq.com\/(book\/queryDetailPage|.+nativepage\/personal|.+vip\/viptxt) script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/QQYD.js, requires-body=true, timeout=60
