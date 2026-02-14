@@ -55,12 +55,12 @@
 
 ## 特别感谢
 
-| 作者         | 项目地址                                                     | 交流地址                                 |
-| ------------ | ------------------------------------------------------------ | ---------------------------------------- |
-| 可莉         | [可莉的Loon资源库](https://github.com/luestr/ProxyResource)  | [LoonCommunity](t.me/LoonCommunity)      |
-| blackmatrix7 | [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master) |                                          |
-| WeiGiegie    | [WeiGiegie/666](https://github.com/WeiGiegie/666)            | [IOS-脚本研究院](https://t.me/GieGie777) |
-| 波波老师     | [BOBOLAOSHIV587/Rules](https://github.com/BOBOLAOSHIV587/Rules) |                                          |
-| fmz200       | [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) |                                          |
-
+| 作者         | 项目地址                                                     | 交流地址                                 | 备注           |
+| ------------ | ------------------------------------------------------------ | ---------------------------------------- | -------------- |
+| 可莉         | [可莉的Loon资源库](https://github.com/luestr/ProxyResource)  | [LoonCommunity](t.me/LoonCommunity)      | 主要配置\|插件 |
+| blackmatrix7 | [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script/tree/master) |                                          | 分流规则       |
+| v2fly        | [domain-list-community](https://github.com/v2fly/domain-list-community) |                                          | 分流规则(Geo)  |
+| WeiGiegie    | [WeiGiegie/666](https://github.com/WeiGiegie/666)            | [IOS-脚本研究院](https://t.me/GieGie777) | 插件\|脚本     |
+| 波波老师     | [BOBOLAOSHIV587/Rules](https://github.com/BOBOLAOSHIV587/Rules) |                                          |                |
+| fmz200       | [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) |                                          |                |
 
