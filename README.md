@@ -51,7 +51,9 @@
 
 前面安装历史版本，是官方签名，永久有效期，但是这里的签名有效期只有7天
 
+## Idea、Pycharm语法高亮
 
+Settings - Editor - File Types - INI config - 加入`*.conf`
 
 ## 特别感谢
 
